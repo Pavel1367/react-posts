@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pavel1367/react-posts/static/css/main.0da2e34a.css",
+    "main.js": "/Pavel1367/react-posts/static/js/main.5ccc3958.js",
+    "index.html": "/Pavel1367/react-posts/index.html",
+    "main.0da2e34a.css.map": "/Pavel1367/react-posts/static/css/main.0da2e34a.css.map",
+    "main.5ccc3958.js.map": "/Pavel1367/react-posts/static/js/main.5ccc3958.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0da2e34a.css",
+    "static/js/main.5ccc3958.js"
+  ]
+}
